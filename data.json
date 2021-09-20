@@ -1,13 +1,159 @@
 {
-  "name": "Saulo Silva Filho",
-  "full_name": "Saulo...",
-  "last_name": "Filho",
+  "about": {
+    "name": "Saulo Silva Filho",
+    "first_name": "Saulo",
+    "middle_name": "Silva",
+    "last_name": "Filho",
+    "label": "Software Engineer",
+    "image": "https://github.com",
+    "email": "hello@saulofilho.com",
+    "phone": "(82) 9999-0000",
+    "site_url": "https://saulofilho.com",
+    "summary": "A summary of John Doe…",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "saulofilho",
+        "url": "https://twitter.com/john"
+      }
+    ]
+  },
   "work": [
     {
-      "company": "ABC"
+      "name": "Ferreri",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2021",
+      "endDate": "31-12-2030",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
     },
     {
-      "company": "ABC"
+      "name": "Ferreri",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2021",
+      "endDate": "31-12-2030",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Ferreri",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2021",
+      "endDate": "31-12-2030",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Ferreri",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2021",
+      "endDate": "31-12-2030",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Ferreri",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2021",
+      "endDate": "31-12-2030",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Ferreri",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2021",
+      "endDate": "31-12-2030",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Ferreri",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2021",
+      "endDate": "31-12-2030",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Ferreri",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2021",
+      "endDate": "31-12-2030",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UNIVAG",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Miami Ad School",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
+      "institution": "Udemy, Rocketseat...",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "description": "Description…",
+      "highlights": ["Won award at AIHacks 2016"],
+      "keywords": ["HTML"],
+      "url": "https://project.com/",
+      "roles": ["Team Lead"],
+      "entity": "Entity",
+      "type": "application"
     }
   ]
 }
