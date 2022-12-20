@@ -1,4 +1,6 @@
-# Curriculum Vitae JSON boilerplate
+# Professional Résumé
+
+Curriculum Vitae JSON boilerplate
 
 ## refs
 

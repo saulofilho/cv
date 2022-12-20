@@ -9,126 +9,176 @@
     "email": "hello@saulofilho.com",
     "phone": "(82) 9999-0000",
     "site_url": "https://saulofilho.com",
-    "summary": "A summary of John Doe…",
+    "summary": "Olá. O meu nome é Saulo Filho, sou natural de Cuiabá, MT, e sou de 1988. Comecei a trabalhar com 14 anos como técnico de informática, na modalidade de menor aprendiz. Aos 18 anos, fiz faculdade de Comunicação e logo em seguida mudei para São Paulo para fazer pós em Criatividade. Trabalhei como comunicólogo por mais de 10 anos, com experiências fora do país. Mas sentia falta de programar, já que é realmente o que eu gosto de fazer. Foi quando em 2017 eu larguei a carreira de Marketing para voltar para a área de tecnologia. Desde então, venho trabalhando com programação e fazendo o que eu gosto.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Maceió, AL",
+      "city": "Maceió",
+      "countryCode": "BR",
+      "region": "Alagoas"
     },
     "profiles": [
       {
         "network": "Github",
         "username": "saulofilho",
-        "url": "https://twitter.com/john"
+        "url": "https://github.com/saulofilho"
       }
     ]
   },
   "work": [
     {
-      "name": "Ferreri",
+      "name": "SECC (Federação dos Empregados no Comércio de Mato Grosso)",
+      "location": "Cuiabá, MT",
+      "position": "TI",
+      "url": "https://secc.com.br",
+      "startDate": "01-01-2004",
+      "endDate": "31-12-2009",
+      "summary": "Trabalhando com servidor MS-DOS e PHP"
+    },
+    {
+      "name": "Genius Publicidade (Cuiabá)",
+      "location": "Cuiabá, MT",
+      "position": "Designer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2009",
+      "endDate": "31-12-2010",
+      "summary": "Description…"
+    },
+    {
+      "name": "OneBigAgency",
+      "location": "Amsterdam, NL",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2011",
+      "endDate": "01-06-2011",
+      "summary": "OAT Shoes, Gotcha"
+    },
+    {
+      "name": "NBS",
+      "location": "São Paulo, SP",
+      "position": "Software Engineer",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2012",
+      "endDate": "31-12-2014",
+      "summary": "Pernod Ricard, BASF, SulAmérica Insurance, Shopping Iguatemi, Takeda Medicine"
+    },
+    {
+      "name": "Pereira & O'Dell",
+      "location": "São Paulo, SP",
+      "position": "Copywriter",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2014",
+      "endDate": "31-12-2015",
+      "summary": "FIAT"
+    },
+    {
+      "name": "Fbiz",
+      "location": "São Paulo, SP",
+      "position": "Copywriter",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2014",
+      "endDate": "31-12-2015",
+      "summary": "Saraiva Book Store, Unilever, Pernod Ricard, América Móvil (Embratel, Claro and NET), TOTVS Software"
+    },
+    {
+      "name": "GREY",
+      "location": "São Paulo, SP",
       "position": "Software Engineer",
       "url": "https://ferreri.co",
       "startDate": "01-01-2021",
       "endDate": "31-12-2030",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
+      "summary": "P&G, Volvo, HBO, Aruba, Avianca, GSK, Itambé Milk"
+    },
+    {
+      "name": "UBER",
+      "location": "São Paulo, SP",
+      "position": "Copywriter",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2017",
+      "endDate": "01-03-2017",
+      "summary": "Uber products."
+    },
+    {
+      "name": "Santa Clara",
+      "location": "São Paulo, SP",
+      "position": "Copywriter",
+      "url": "https://ferreri.co",
+      "startDate": "01-03-2017",
+      "endDate": "01-06-2017",
+      "summary": "AB InBev, Tokio Marine, Quem Disse Berenice MakeUp"
+    },
+    {
+      "name": "Publicis",
+      "location": "São Paulo, SP",
+      "position": "Copywriter",
+      "url": "https://ferreri.co",
+      "startDate": "01-06-2017",
+      "endDate": "01-09-2017",
+      "summary": "Habib's Fast Food, Bradesco Bank, Senac University"
+    },
+    {
+      "name": "mcgarrybowen",
+      "location": "São Paulo, SP",
+      "position": "Copywriter",
+      "url": "https://ferreri.co",
+      "startDate": "01-09-2017",
+      "endDate": "31-12-2017",
+      "summary": "Unicef, Bradesco Bank, Natura, Special Dog, United Airlines"
+    },
+    {
+      "name": "FECMT (Federação dos Empregados no Comércio de Mato Grosso)",
+      "location": "Cuiabá, MT (Remote)",
+      "position": "Full stack",
+      "url": "https://ferreri.co",
+      "startDate": "01-01-2017",
+      "endDate": "31-12-2020",
+      "summary": "Full stack working with: Javascript, ReactJS, Node."
+    },
+    {
+      "name": "DropSmart",
+      "location": "Florianópolis, SC (Remote)",
+      "position": "Full stack",
+      "url": "https://dropsmart.com",
+      "startDate": "01-01-2020",
+      "endDate": "31-12-2021",
+      "summary": "Full stack working with: Javascript, ReactJS, React Native, Node, Shopify"
     },
     {
       "name": "Ferreri",
+      "location": "São Paulo, SP (Remote)",
       "position": "Software Engineer",
       "url": "https://ferreri.co",
       "startDate": "01-01-2021",
       "endDate": "31-12-2030",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
-    },
-    {
-      "name": "Ferreri",
-      "position": "Software Engineer",
-      "url": "https://ferreri.co",
-      "startDate": "01-01-2021",
-      "endDate": "31-12-2030",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
-    },
-    {
-      "name": "Ferreri",
-      "position": "Software Engineer",
-      "url": "https://ferreri.co",
-      "startDate": "01-01-2021",
-      "endDate": "31-12-2030",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
-    },
-    {
-      "name": "Ferreri",
-      "position": "Software Engineer",
-      "url": "https://ferreri.co",
-      "startDate": "01-01-2021",
-      "endDate": "31-12-2030",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
-    },
-    {
-      "name": "Ferreri",
-      "position": "Software Engineer",
-      "url": "https://ferreri.co",
-      "startDate": "01-01-2021",
-      "endDate": "31-12-2030",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
-    },
-    {
-      "name": "Ferreri",
-      "position": "Software Engineer",
-      "url": "https://ferreri.co",
-      "startDate": "01-01-2021",
-      "endDate": "31-12-2030",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
-    },
-    {
-      "name": "Ferreri",
-      "position": "Software Engineer",
-      "url": "https://ferreri.co",
-      "startDate": "01-01-2021",
-      "endDate": "31-12-2030",
-      "summary": "Description…",
-      "highlights": ["Started the company"]
+      "summary": "Software Engineer working with: Ruby, Python"
     }
   ],
   "education": [
     {
       "institution": "UNIVAG",
       "url": "https://institution.com/",
-      "area": "Software Development",
+      "area": "Comunicação Social",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "startDate": "2006-01-01",
+      "endDate": "2010-01-01",
+      "courses": ["Marketing, Advertising"]
     },
     {
       "institution": "Miami Ad School",
       "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "area": "Creative",
+      "studyType": "Pós-graduação",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "courses": ["Advertising, Creativity, Art Direction, Desing, Copywriter"]
     },
     {
-      "institution": "Udemy, Rocketseat...",
+      "institution": "Rocketseat",
       "url": "https://institution.com/",
       "area": "Software Development",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
+      "courses": ["Full stack, OOP"]
     }
   ],
   "skills": [
